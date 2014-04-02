@@ -1,5 +1,5 @@
-JSON Form
-=========
+JSON Form for Twitter Bootstrap 3
+=================================
 
 The JSON Form library is a JavaScript client-side library that takes a
 structured data model defined using [JSON Schema](http://json-schema.org/) as
